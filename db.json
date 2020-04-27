@@ -5,32 +5,32 @@
       "title": "Web development Course + Build 10 Projects",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Samuel Ayegbusi",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 2,
       "title": "Introduction to Self Development Expertise",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Esther Ilori",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 3,
       "title": "Learn the principle of Graphics Design",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Uchendu Precious",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/c_crop,e_blackwhite,r_6/v1568663796/jesus-kiteque-wn-KYaHwcis-unsplash_fuaops.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/c_crop,e_blackwhite,r_6/v1568663796/jesus-kiteque-wn-KYaHwcis-unsplash_fuaops.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 4,
       "title": "The Principles of Business",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Nma Okafor",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1575669428/tim-foster-Odhl-kitI2c-unsplash_i20sos.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1575669428/tim-foster-Odhl-kitI2c-unsplash_i20sos.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 5,
