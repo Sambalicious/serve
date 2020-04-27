@@ -37,48 +37,48 @@
       "title": "The Complete Guide to Project Management",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Femi Otedola",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1586085020/bg6_swtm5v.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1586085020/bg6_swtm5v.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 6,
       "title": "Artificial Intelligence Mastery",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Mike Adenuga",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 7,
       "title": "The Complete Public Speaking Course",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Yemi Osinbajo",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 8,
       "title": "Fundamental Approach to Self Discovery",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Fakile Rasaq",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1575668381/woman_excercising_fj7qrl.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1575668381/woman_excercising_fj7qrl.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "id": 9,
       "title": "Mathematics Made Easy For Kids",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Idumu Olayinka",
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
     {
       "title": "introduction to data science",
       "description": "Learn the rudiment of data science using pyton 21",
       "author": "Osunkile Oluwatayo",
       "id": 10,
-      "imageUrl": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
+      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     }
   ]
 }
