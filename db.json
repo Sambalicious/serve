@@ -22,7 +22,7 @@
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Uchendu Precious",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/c_crop,e_blackwhite,r_6/v1568663796/jesus-kiteque-wn-KYaHwcis-unsplash_fuaops.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289787/p0xrlshmf7osbruut7sk.mp4"
     },
     {
       "id": 4,
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "title": "The Complete Guide to Project Management",
+      "title": "Beginners Guide To Photography",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Daniel Tunde Ojediran",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1586085020/bg6_swtm5v.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289830/feqp7cbkzjr3g6m6kdqn.mp4"
     },
     {
       "id": 6,
@@ -50,11 +50,11 @@
     },
     {
       "id": 7,
-      "title": "The Complete Public Speaking Course",
+      "title": "Use Adobe Expert Like a Pro; Beginners to Expert",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Funmilola Enilorunda",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
-      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289787/p0xrlshmf7osbruut7sk.mp4"
     },
     {
       "id": 8,
@@ -79,6 +79,14 @@
       "id": 10,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name":"Samuel Ayegbusi",
+      "email": "stemitope@gmail.com",
+      "biodata": "i am xyz, i do this for a living"
     }
   ]
 }
