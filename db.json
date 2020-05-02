@@ -80,13 +80,11 @@
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     }
-  ],
-  "users": [
+  ], 
+  "favourites": [
     {
-      "id": 1,
-      "name":"Samuel Ayegbusi",
-      "email": "stemitope@gmail.com",
-      "biodata": "i am xyz, i do this for a living"
+      "data": [4],
+      "id": 1
     }
   ]
 }
