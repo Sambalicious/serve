@@ -1,4 +1,14 @@
 {
+  "users" : [
+    {
+      "id": 1,
+      "googleId": "104603840349259720000",
+      "email": "sambalicious19@gmail.com",
+      "firstName": "Temitope",
+      "lastName": "Samuel",
+      "image_url": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg"
+    }
+  ],
   "courses": [
     {
       "id": 1,
@@ -91,16 +101,6 @@
     {
       "users":[3],
       "id": 1
-    }
-  ],
-  "users" : [
-    {
-      "id": 1,
-      "googleId": "104603840349259720000",
-      "email": "sambalicious19@gmail.com",
-      "firstName": "Temitope",
-      "lastName": "Samuel",
-      "image_url": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg"
     }
   ]
 }
