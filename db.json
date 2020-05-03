@@ -83,7 +83,13 @@
   ], 
   "favourites": [
     {
-      "data": [4],
+      "users": [4],
+      "id": 1
+    }
+  ],
+  "stars": [
+    {
+      "users":[3],
       "id": 1
     }
   ],
