@@ -6,6 +6,7 @@
       "email": "sambalicious19@gmail.com",
       "firstName": "Temitope",
       "lastName": "Samuel",
+      "user_id": 1,
       "image_url": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg"
     }
   ],
@@ -16,7 +17,8 @@
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Samuel Ayegbusi",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
+      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA",
+      "user_id": 1
     },
     {
       "id": 2,
@@ -24,13 +26,15 @@
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Esther Ilori",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
+      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA",
+      "user_id": 1,
     },
     {
       "id": 3,
       "title": "Learn the principle of Graphics Design",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Uchendu Precious",
+      "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/c_crop,e_blackwhite,r_6/v1568663796/jesus-kiteque-wn-KYaHwcis-unsplash_fuaops.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289787/p0xrlshmf7osbruut7sk.mp4"
     },
@@ -39,6 +43,7 @@
       "title": "The Principles of Business",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Nma Okafor",
+      "user_id": 3,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1575669428/tim-foster-Odhl-kitI2c-unsplash_i20sos.jpg",
       "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
     },
@@ -55,6 +60,7 @@
       "title": "Artificial Intelligence Mastery",
       "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Oladiamonds Idowu",
+      "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
@@ -63,6 +69,7 @@
       "title": "Use Adobe Expert Like a Pro; Beginners to Expert",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Funmilola Enilorunda",
+      "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289787/p0xrlshmf7osbruut7sk.mp4"
     },
@@ -71,6 +78,7 @@
       "title": "Fundamental Approach to Self Discovery",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Olatokunbo Ogunlade",
+      "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1575668381/woman_excercising_fj7qrl.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
@@ -79,6 +87,7 @@
       "title": "Mathematics Made Easy For Kids",
       "description": "orem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
       "author": "Idumu Olayinka",
+      "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1568666069/domenico-loia-EhTcC9sYXsw-unsplash_clm1f6.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     },
@@ -87,6 +96,7 @@
       "description": "Learn the rudiment of data science using pyton 21",
       "author": "Sinmi Akinsanmi",
       "id": 10,
+      "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1566237604/samples/imagecon-group.jpg",
       "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
     }
@@ -136,7 +146,7 @@
   ],
   "stars": [
     {
-      "users": [4],
+      "users": [1],
       "id": 1
     },
      {
