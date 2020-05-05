@@ -17,7 +17,7 @@
       "description": "Hi! Welcome to the Web Developer Bootcamp, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market. ",
       "author": "Samuel Ayegbusi",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588632878/resp3dc1tb3rokz1djnf.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA",
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588637314/t3kuiqegn9nxr4efrrof.mp4",
       "user_id": 1
     },
     {
@@ -26,7 +26,7 @@
       "description": "This course is part of the Leadership in Global Development MicroMasters program. In order to get the most out of this course, we recommend that you have experience working in the development sector or a strong interest in this area.",
       "author": "Esther Ilori",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588632279/oevndrc5t4tzc4ivsywc.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA",
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588293958/pxyquxjm5gm26pu3eoqf.mp4",
       "user_id": 1
     },
     {
@@ -45,7 +45,7 @@
       "author": "Nma Okafor",
       "user_id": 3,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588632473/uj0pzrnwetqwo3zngvw4.jpg",
-      "video": "https://www.youtube.com/watch?v=YpLMnziTwCA"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588607381/zvfqrtztjxoumxhbtcyi.mp4"
     },
     {
       "id": 5,
@@ -62,7 +62,7 @@
       "author": "Oladiamonds Idowu",
       "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588635078/rj5fu1oexrtyi2qvtq44.jpg",
-      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588637270/y3dkxj0fqufxiaestan3.mp4"
     },
     {
       "id": 7,
@@ -80,7 +80,7 @@
       "author": "Olatokunbo Ogunlade",
       "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588631446/ya4fabeumteqejogsszj.jpg",
-      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588294462/kzxf3vigysxkercdeebv.mp4"
     },
     {
       "id": 9,
@@ -89,7 +89,7 @@
       "author": "Mario Michael",
       "user_id": 1,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588630805/x83lvp15scebl2loepur.jpg",
-      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588636687/teckgufw6vfme7myqxxb.mp4"
     },
     {
       "title": "Introduction to Data Science",
@@ -98,7 +98,7 @@
       "id": 10,
       "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588633724/opbx18clkxfxyiqflrbv.jpg",
-      "video": "https://www.youtube.com/watch?v=PkVbF9DmtSw"
+      "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588636818/cmntuwruvioakclcvzag.mp4"
     }
   ], 
   "favourites": [
