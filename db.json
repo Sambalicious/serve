@@ -8,6 +8,15 @@
       "lastName": "Samuel",
       "user_id": 1,
       "image_url": "https://res.cloudinary.com/dev-sam/image/upload/c_crop/v1568664469/alex-kotliarskyi-ourQHRTE2IM-unsplash_llnt5w.jpg"
+    },
+    {
+      "id": 2,
+      "googleId": "100166354699004501264",
+      "email": "stemitope370@gmail.com",
+      "firstName": "samuel",
+      "lastName": "temitope",
+      "user_id": 2,
+      "image_url": "https://res.cloudinary.com/dev-sam/image/upload/v1566578423/samuel_rgzxlo.jpg"
     }
   ],
   "courses": [
@@ -18,7 +27,7 @@
       "author": "Samuel Ayegbusi",
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588663168/pldpxqrkya9zd9xzv5br.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588637270/y3dkxj0fqufxiaestan3.mp4",
-      "user_id": 1
+      "user_id": 2
     },
     {
       "id": 2,
@@ -43,7 +52,7 @@
       "title": "The Principles of Business",
       "description": "You will learn core concepts of accounting, marketing, finance, and organizational behaviour. You will learn how to communicate effectively in a business setting, and immerse yourself in the reality of the business world and how it works.",
       "author": "Nma Okafor",
-      "user_id": 3,
+      "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588632473/uj0pzrnwetqwo3zngvw4.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588607381/zvfqrtztjxoumxhbtcyi.mp4"
     },
@@ -52,6 +61,7 @@
       "title": "Beginners Guide To Photography",
       "description": "This photography course is designed to teach you the ins and outs of photography, even if you have little to no experience with it, to help create profitable images that help you stand out from the crowd and sell.",
       "author": "Daniel Tunde Ojediran",
+      "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588632634/tcn47r3mkssmwcwkhspx.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588289830/feqp7cbkzjr3g6m6kdqn.mp4"
     },
@@ -60,7 +70,7 @@
       "title": "Artificial Intelligence Mastery",
       "description": "AI is transforming how we live, work, and play. By enabling new technologies like self-driving cars and recommendation systems or improving old ones like medical diagnostics and search engines, the demand for expertise in AI and machine learning is growing rapidly.",
       "author": "Oladiamonds Idowu",
-      "user_id": 1,
+      "user_id": 2,
       "image": "https://res.cloudinary.com/dev-sam/image/upload/v1588635078/rj5fu1oexrtyi2qvtq44.jpg",
       "video": "https://res.cloudinary.com/dev-sam/video/upload/v1588637314/t3kuiqegn9nxr4efrrof.mp4"      
     },
